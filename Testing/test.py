@@ -22,5 +22,30 @@ c = 15
 print("a=",a,"b=",b,"c=",c,end='\t')
 print("a * a=",a * a,"b - b=",b - b,"a + b + c=",a + b + c)
 
+# See if this works!
+print("I love this!")
+print('I "love" you.')
+m = 3
+n = 4
+p = 5
+print("m =", m, "n =", n, "p =", p,end='\t')
+print("2m =", 2 * m, "m + n =", m + n, "p * n =", p * n)
+# Let's make an error...but this one is not serious and the program will still run because it is close enough.
+print("Help!")
+
+print("It was a dark and stormy night.")
+print("Then, suddenly, a shot rang out!")
+# Use escaping code:  the backslash
+print("Hi! This is a double quote mark: \" We use it for printing.")
+print("Audrey Hepburn once said, \"Nothing is impossible. Actually, it says I'm possible!\"")
+print("Look! I'm so smart.")
+print("The file is stored in C:\\New Folder")
+print("This\nis\nmy\nsample.")
+print("""You have a name,
+it is always the same;
+but if you want some fame,
+try a different game!""")
+print("Have a happy day!")
+
 
 
